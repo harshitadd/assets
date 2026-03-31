@@ -1,1 +1,1 @@
-![Annotation Interface Example](annotation_webpage)
+![Annotation Interface Example](annotation webpage.png)
